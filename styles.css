@@ -1,0 +1,38 @@
+#mainID{
+    background-color: rgb(93, 177, 255);
+    width: 16.66%;
+    text-align: center;
+}
+
+table{
+    table-layout: auto;
+    width: 85%;  
+    background-color: rgb(93, 177, 255);
+    border-color: 1px rgb(255, 0, 0) solid;
+}
+
+#tables, td{
+    border-color: 1px rgb(255, 0, 0) solid;
+    border-width: 1px;
+}
+
+
+ table, th, td, #mainID{
+    border: 1px solid black;
+  }
+
+
+body{
+    margin-left: .5em;
+}
+
+#centerMe{
+    text-align: center;
+}
+ #current{
+    padding: 1em;
+ }
+
+ #description{
+     padding: .5em;
+ }
